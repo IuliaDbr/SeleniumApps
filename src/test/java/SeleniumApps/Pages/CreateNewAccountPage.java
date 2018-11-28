@@ -16,4 +16,6 @@ public class CreateNewAccountPage extends PageObject {
 
     @FindBy (id="email_create")
     public WebElement EmailAddressInputField;
+
+
 }

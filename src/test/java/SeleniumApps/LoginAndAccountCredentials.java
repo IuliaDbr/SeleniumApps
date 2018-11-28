@@ -2,7 +2,7 @@ package SeleniumApps;
 
 public class LoginAndAccountCredentials {
 
-    public final String newAccountEmail ="test01@gmail.com";
+    public final String newAccountEmail = "testSelenium1210@gmail.com";
 
 
 }
